@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Example",
+      "contact": "alice.example123@gmail.com, +1-202-555-0147",
+      "notes": "Interested in security research, joined 2022."
+    },
+    {
+      "id": 2,
+      "name": "Bob Test",
+      "contact": "bobtest[at]mail.com / phone: (202) 555-0173",
+      "notes": "Old record, not verified."
+    },
+    {
+      "id": 3,
+      "name": "Charlie Hacker",
+      "contact": "Email: charlie_h@protonmail.com, mobile: +44 7700 900123",
+      "notes": "Suspicious activity on forums."
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "contact": "d.prince(at)themyscira.net, Phone: 1-202-555-0100",
+      "notes": "Prefers secure communication."
+    },
+    {
+      "id": 5,
+      "name": "Ethan Hunt",
+      "contact": "e.hunt@imf.gov | 202 555 0199",
+      "notes": "Agent, handle with care. Contact: agent.ethan@yahoo.co.uk"
+    },
+    {
+      "id": 6,
+      "name": "Frank Castle",
+      "contact": "thepunisher@justice.net",
+      "notes": "No phone number on record. Do not contact."
+    },
+    {
+      "id": 7,
+      "name": "Grace M Hopper",
+      "contact": "grace.hopper@us.navy.mil, +1 (202) 555-0142",
+      "notes": "Pioneer."
+    },
+    {
+      "id": 8,
+      "name": "Heidi-Maria Schmidt",
+      "contact": "heidi.schmidt[at]mail.de, +49 30 12345678",
+      "notes": "German office contact."
+    }
+  ],
+  "raw_dump": "Forum Post #1:\nHey everyone, great to be here. You can reach me at johnny77@yahoo.com for collabs.\nor call me at 202.555.0199 ASAP!! My associate, Jane Doe, can be reached at jane.d@web-services.co.\nLeaked Memo Snippet:\n...key contact is Dr. Evelyn Reed at e.reed.sci[at]researchgate.net.\nHer direct line is +1-312-555-0155. Please be discreet.\nAnother one: support@darkmarket.onion - hidden contact.\nChat Log Excerpt:\nUser 'Viper' says: Need to talk offline. My number is (555) 867-5309.\nUser 'Phoenix' replies: Got it. Email me the details at phoenix_rising(at)firemail.com.",
+  "metadata": {
+    "source": "darkweb_forum_scrape_v2",
+    "timestamp": "2025-10-01T11:51:00Z",
+    "batch_id": "batch_734"
+  }
+}

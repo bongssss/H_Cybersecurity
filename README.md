@@ -1,11 +1,11 @@
 # Exploitation Analyst / Penetration Testing Intern
 
-## 📌 Role Overview
+##  Role Overview
 As a Penetration Testing Intern with a focus on exploitation analysis, I work on identifying, analyzing, and exploiting vulnerabilities within controlled lab environments. My responsibilities involve reconnaissance, enumeration, exploitation, post-exploitation, and reporting — using industry-standard tools and methodologies to simulate real-world attack scenarios.
 
 ---
 
-## 📂 Table of Contents
+##  Table of Contents
 1. [Introduction to Ethical Hacking & Pentesting](#1-introduction-to-ethical-hacking--pentesting)  
 2. [Virtualization, Linux (Kali) Usage & Overview of Network Services](#2-virtualization-linux-kali-usage--overview-of-network-services)  
 3. [Enumerating & Attacking Network Services I — SSH & FTP](#3-enumerating--attacking-network-services-i--ssh--ftp)  
