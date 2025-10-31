@@ -1,7 +1,7 @@
-# Exploitation Analyst / Penetration Testing Intern
+# Exploitation Analyst / Penetration Testing Internship Docs
 
 ##  Role Overview
-As a Penetration Testing Intern with a focus on exploitation analysis, I work on identifying, analyzing, and exploiting vulnerabilities within controlled lab environments. My responsibilities involve reconnaissance, enumeration, exploitation, post-exploitation, and reporting — using industry-standard tools and methodologies to simulate real-world attack scenarios.
+As a Penetration Testing Intern with a focus on exploitation analysis, I worked on identifying, analyzing, and exploiting vulnerabilities within controlled lab environments. My responsibilities involved reconnaissance, enumeration, exploitation, and post-exploitation reporting — using industry-standard tools and methodologies to simulate real-world attack scenarios.
 
 ---
 
@@ -18,7 +18,7 @@ As a Penetration Testing Intern with a focus on exploitation analysis, I work on
 ---
 
 ## 1. Introduction to Ethical Hacking & Pentesting
-- Understanding the penetration testing lifecycle: **Reconnaissance → Scanning → Exploitation → Post-Exploitation → Reporting**.
+- Understanding the penetration testing lifecycle: **Reconnaissance → Scanning → Exploitation → Post-Exploitation Reporting**.
 - Familiarity with the legal and ethical boundaries of security testing.
 - Awareness of **common threat vectors**, **attack surfaces**, and **security frameworks** such as OWASP, PTES, and NIST.
 - Hands-on practice in setting up safe testing environments to simulate attacks without impacting production systems.
@@ -65,7 +65,8 @@ As a Penetration Testing Intern with a focus on exploitation analysis, I work on
 - Understanding **hashing algorithms** (MD5, SHA1, SHA256) and **password storage mechanisms**.
 - Using **John the Ripper** and **Hashcat** to crack hashes.
 - Leveraging **rockyou.txt** for dictionary attacks.
-- Awareness of **salting** and modern password-hardening practices.
+- Knowlegde of **salting** and modern password-hardening practices.
+- Practice with Synchronous and Asynchronous cryptographic algorithms.
 
 ---
 
